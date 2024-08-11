@@ -1,4 +1,3 @@
-# reda._.
 <h1 align="center">Hi 👋, I'm Reda Kaleem</h1>
 - 📫 How to reach me **kaleemreda@gmail.com**
 

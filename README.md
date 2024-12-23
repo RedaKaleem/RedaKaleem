@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Reda Kaleem</h1>
-- 📫 How to reach me **kaleemreda@gmail.com**
 
 ![](https://github.com/user-attachments/assets/825bc45e-57f1-4078-a11f-1fc32ccb0ea6)
 
 
 
 <h3 align="left">Connect with me:</h3>
+<li>📫 How to reach me <strong><a href="mailto:kaleemreda@gmail.com">kaleemreda@gmail.com</a></strong></li>
+
 <p align="left">
 </p>
 

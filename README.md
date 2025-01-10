@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reda Kaleem</h1>
-
-![](https://github.com/user-attachments/assets/825bc45e-57f1-4078-a11f-1fc32ccb0ea6)
+Tech Enthusiast | Open source Contributer
 
 
 
